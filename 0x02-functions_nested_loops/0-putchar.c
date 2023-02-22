@@ -1,4 +1,4 @@
-#include "ALX.h"
+#include "main.h"
 /**
  * main - Entry point
  *
